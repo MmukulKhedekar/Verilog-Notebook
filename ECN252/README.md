@@ -1,0 +1,1 @@
+This directory contains the Verilog codes that were a part of our experiments as well the codes that I practiced before the final exam
